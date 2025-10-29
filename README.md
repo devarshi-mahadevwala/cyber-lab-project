@@ -1,2 +1,1 @@
-# cyber-lab-project
-End-to-End Cyber Defense Lab by Devarshi Mahadevwala
+End-to-End Cyber Defense Lab – Stage 1 Setup
