@@ -2,3 +2,4 @@
 Author: Devarshi Mahadevwala
 
 Short: Isolated host-only lab (Kali attacker, Ubuntu victim) — documented step-by-step.
+End-to-End Cyber Defense Lab – Stage 1 Setup
